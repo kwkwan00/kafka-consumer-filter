@@ -33,4 +33,4 @@ dependencies {
     compile('org.apache.httpcomponents:httpclient:4.3.6')
 }
 
-//mainClassName = 'com.elsevier.eventconsumer.Application'
+mainClassName = 'com.kquon.kafka.KafkaApplication'
